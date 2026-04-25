@@ -12,7 +12,7 @@
 - 👽 Check my work 👉 [Portfolio](https://jensi-sojitra-portfolio.netlify.app/)
 - 📂 All of my projects 👉 [GitHub](https://github.com/jensi-sojitra20)
 - 💬 Ask me about **computers, development, gaming**
-- 📫 Reach me at **[sojitrajensi22@gmail.com](mailto:sojitrajensi22@gmail.com)**
+- 📫 Reach me at **[sojitrajensi36@gmail.com](mailto:sojitrajensi36@gmail.com)**
 
 ---
 
