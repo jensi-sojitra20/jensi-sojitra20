@@ -7,7 +7,7 @@
 ### 👩‍🎓 About Me
 
 - 🎓 Currently studying **BSc IT 3rd year at GLS University**
-- 🚀 I’m currently mastering **Next.js**
+- 🚀 I’m currently mastering **Python,AI/ML**
 - 🌱 I’m a **Full Stack Developer**
 - 💻 Fluent in **C, C++, Java**
 - 👽 Check my work 👉 [Portfolio](https://jensi-sojitra-portfolio.netlify.app/)
@@ -25,15 +25,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
-</p>
 
 ---
 
