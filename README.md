@@ -10,11 +10,10 @@
 - 🚀 I’m currently mastering **Next.js**
 - 🌱 I’m a **Full Stack Developer**
 - 💻 Fluent in **C, C++, Java**
-- 👽 Check my work 👉 [Portfolio](https://your-portfolio-link.com)
-- 📂 All of my projects 👉 [GitHub](https://github.com/your-username)
+- 👽 Check my work 👉 [Portfolio](https://jensi-sojitra-portfolio.netlify.app/)
+- 📂 All of my projects 👉 [GitHub](https://github.com/jensi-sojitra20/jensi-sojitra20/)
 - 💬 Ask me about **computers, development, gaming**
-- 📫 Reach me at **your-email@gmail.com**
-- ⚡ Fun fact: *I am narcissist 😅*
+- 📫 Reach me at **sojitrajensi22@gmail.com**
 
 ---
 
@@ -41,8 +40,7 @@
 ### 🔗 Connect with me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"></a>
-  <a href="https://instagram.com/your-link"><img src="https://img.shields.io/badge/Instagram-pink?logo=instagram"></a>
+  <a href=" https://www.linkedin.com/in/jensi-sojitra-93548a341/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"></a>
 </p>
 
 - <img src="https://raw.githubusercontent.com/jensi-sojitra20/jensi-sojitra20/output/github-contribution-grid-snake.svg" />
